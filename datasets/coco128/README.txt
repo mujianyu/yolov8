@@ -16,4 +16,7 @@ Python 3.7 or later with the following `pip3 install -U -r requirements.txt` pac
 # Citation
 
 [![DOI](https://zenodo.org/badge/186122711.svg)](https://zenodo.org/badge/latestdoi/186122711)
+<<<<<<< HEAD
 
+=======
+>>>>>>> 34db83389b296878ad45d0f97494e04b463c7de9
