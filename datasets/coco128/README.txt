@@ -16,7 +16,3 @@ Python 3.7 or later with the following `pip3 install -U -r requirements.txt` pac
 # Citation
 
 [![DOI](https://zenodo.org/badge/186122711.svg)](https://zenodo.org/badge/latestdoi/186122711)
-
-# Contact
-
-Issues should be raised directly in the repository. For additional questions or comments please email Glenn Jocher at glenn.jocher@ultralytics.com or visit us at https://contact.ultralytics.com.
